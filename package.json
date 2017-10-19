@@ -1,0 +1,27 @@
+{
+  "name": "me1580uppgift2-komplettering",
+  "version": "1.0.0",
+  "description": "Detta är en komplettering för uppgift 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schwebbe/ME1580Uppgift2-komplettering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Schwebbe/ME1580Uppgift2-komplettering/issues"
+  },
+  "homepage": "https://github.com/Schwebbe/ME1580Uppgift2-komplettering#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "pouchdb": "^6.3.4",
+    "request": "^2.83.0"
+  }
+}
